@@ -1,6 +1,6 @@
-# API_Automation_Testing_Task
+						# API_Automation_Testing_Task
 
-				How to run automated tests - JMeter
+						How to run automated tests - JMeter
 
 1. Install JMeter testing tool - (Because JMeter is pure Java desktop application, 
 it requires a fully compliant JVM that is 7 or higher. 
@@ -31,4 +31,6 @@ If you are using Linux or Mac it is jmeter.sh
 IMPORTANT NOTE: YOUR API KEY (CREDENTIALS) MIGHT BE DIFFERENT OTHER THAN MINE
 YOU CAN GEt YOUR API KEY from https://developers.google.com/maps/documentation/geocoding/get-api-key
 
-ENJOY LEARNING JMETER testing framework.
+
+
+					ENJOY LEARNING JMETER testing framework.
