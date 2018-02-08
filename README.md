@@ -12,8 +12,8 @@ You can download and install the latest version of Java SE Development Kit.
 
 4. Go to your JMeter bin folder to launch JMeter, in our case it would be C:\Users\Armin\Downloads\apache-jmeter-3.3\bin 
 and locate appropriate file, in this case folder bin: Contains JMeter script file for starting JMeter
-in order if you want to start Jmeter just run the file jmeter.bat in GUI mode or
-If you are using Linux or Jmeter it is jmeter.sh
+in order if you want to start Jmeter just run the file jmeter.bat in GUI mode.
+If you are using Linux or Mac it is jmeter.sh
 
 5. When JMeter is opened go to file tab and open AutomationTestTaskArminNukic.jmx
 
